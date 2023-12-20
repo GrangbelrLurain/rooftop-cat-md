@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d3d9dd096cbd06f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "29b1f8377a4188c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6eb5f9fc2883f1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "deaa02916c4488fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "블로그 포스팅 테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11aa610d7e226818",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce3d2c143d90bcac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e88072e0e033bf51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2febf0a1245e6169",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f77d35308a53820",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2c731d351a0deb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c41979106562c77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147be68db760d060",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "블로그 포스팅 테스트.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2fa34ca5b220b7b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "블로그 포스팅 테스트.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46e14e2710a389d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9787791a2be72b7b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "블로그 포스팅 테스트.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "e88072e0e033bf51",
+  "lastOpenFiles": [
+    "yarn.lock",
+    "node_modules",
+    "블로그 포스팅 테스트.md"
+  ]
+}
