@@ -8,4 +8,4 @@
 
 # Rooftop Cat은 어떻게 만들어졌는지?
 
-git에서 제공하는 [rest api](https://docs.github.com/ko/rest?apiVersion=2022-11-28)가 있다. 해당 api를 활용하여 마크다운을 불러와 블로그 형식으로 제공할 수 있도록 제작하였다. 마크다운을 작성하는 도구로 obsidian을 사용하고 있다. 개발 블로그 및 팀의 여러 소식들을 제공하고자 해당 기능을 추가하였다.
+github에서 제공하는 [rest api](https://docs.github.com/ko/rest?apiVersion=2022-11-28)가 있다. 해당 api를 활용하여 마크다운을 불러와 블로그 형식으로 제공할 수 있도록 제작하였다. 마크다운을 작성하는 도구로 obsidian을 사용하고 있다. 개발 블로그 및 팀의 여러 소식들을 제공하고자 해당 기능을 추가하였다.
